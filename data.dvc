@@ -1,6 +1,6 @@
 outs:
-- md5: 41ecd03c5ddde007480c4b5041157250.dir
-  size: 38
-  nfiles: 5
+- md5: 772e6eb5d836d9ead23dd8e892d052cd.dir
+  size: 91
+  nfiles: 6
   hash: md5
   path: data
